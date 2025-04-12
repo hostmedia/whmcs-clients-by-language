@@ -7,6 +7,8 @@ This report shows the distribution of clients by their selected language prefere
 - See the full breakdown of clients
 - Displays default selected clients plus those that changed the language setting
 
+![WHMCS Clients by Language Extended](https://hostmedia.uk/resources/images/knowledgebase/WHMCS-Clients-by-Language.png)
+
 ## Install
 - Download the report https://github.com/hostmedia/whmcs-clients-by-language/archive/refs/heads/main.zip 
 - Upload the 'clients_by_language.php' file to your WHMCS reports folder: /whmcs-directory/modules/reports/
